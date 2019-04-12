@@ -58,11 +58,18 @@ header .unad {
 	line-height: 10px;
 	width: 80px;
 	padding: 0px;
-	
-
-
-	
+		
 }
+
+header .logo {
+	
+	float: left;
+	font-size: 40px;
+	line-height: 10px;
+	width: 80px;
+	padding: 0px;
+}
+
 header nav {
 	float: right;
 	padding-top: 30px;
